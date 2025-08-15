@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/kp_mu/target/debug/leptos: /home/batien/Kp/GitSrc/github.com/khaiphong/kp_mu/leptos/src/app.rs /home/batien/Kp/GitSrc/github.com/khaiphong/kp_mu/leptos/src/lib.rs /home/batien/Kp/GitSrc/github.com/khaiphong/kp_mu/leptos/src/main.rs

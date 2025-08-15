@@ -1,3 +1,13 @@
 [workspace]
+members = [
+    "chat",
+    "coloc",
+    "graph",
+    "home",
+    "leptos",
+    "lib",
+    "mu",
+    "vault",
+    "video",
+]
 resolver = "3"
-members = ["mu", "lib", "chat", "coloc", "home", "vault", "graph", "video"]
